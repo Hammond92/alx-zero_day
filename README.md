@@ -1,1 +1,1 @@
-My first readme
+Nana Appoh first readme
